@@ -23,18 +23,21 @@ Answer: Google
 ### 7. Which company has developed Gemini 1.5?
 Answer: Google
 
-### 8. Which company has developed Gemma?
+### 8. Which company has developed Gemma 1?
 Answer: Google DeepMind
 
-### 9. Which company has developed Llama 2?
+### 9. Which company has developed Gemma 2?
+Answer: Google DeepMind
+
+### 10. Which company has developed Llama 2?
 Answer: Meta
 
-### 10. Which company has developed Llama 3?
+### 11. Which company has developed Llama 3?
 Answer: Meta
 
-### 11. Which company has developed Llama 3.1?
+### 12. Which company has developed Llama 3.1?
 Answer: Meta
 
-### 12. Which company has developed Llama 3.2?
+### 13. Which company has developed Llama 3.2?
 Answer: Meta
 
