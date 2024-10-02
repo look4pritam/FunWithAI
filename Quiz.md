@@ -44,3 +44,6 @@ Answer: Meta
 ### 14. Which company has developed Llama 3.2?
 Answer: Meta
 
+### 15. Which company has developed Mistral large language model?
+Answer: Mistral AI
+
