@@ -82,3 +82,20 @@ Answer: Text To Speech
 
 ### 27. Which company has developed Whisper ASR model?
 Answer: OpenAI
+
+### 28. Gen-AI can be used for designing virtual assistant. True or False
+Answer: True
+
+### 29. Gen-AI is used for developing Apple Siri. True or False
+Answer: True
+
+### 30. Gen-AI is used for developing Apple Siri. True or False
+Answer: True
+
+### 31. Gen-AI is used for developing Google Assistant. True or False
+Answer: True
+
+### 32. Gen-AI is used for developing Microsoft Cortana. True or False
+Answer: True
+
+
