@@ -98,4 +98,6 @@ Answer: True
 ### 32. Gen-AI is used for developing Microsoft Cortana. True or False
 Answer: True
 
+### 33. What is the name of latest large language model from Meta?
+Answer: Llama 3.2
 
