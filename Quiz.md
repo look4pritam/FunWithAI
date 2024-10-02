@@ -61,3 +61,24 @@ Answer: Microsoft
 
 ### 20. Which company has developed Phi 3.5 small language model?
 Answer: Microsoft
+
+### 21. Which company has developed ChatGPT 3.5 large language model?
+Answer: OpenAI
+
+### 22. Which company has developed ChatGPT 4 large language model?
+Answer: OpenAI
+
+### 23. Which company has developed ChatGPT 4o large language model?
+Answer: OpenAI
+
+### 24. Which company has developed ChatGPT o1 large language model?
+Answer: OpenAI
+
+### 25. What is a full form of ASR?
+Answer: Automatic Speech Recognition
+
+### 26. What is a full form of TTS?
+Answer: Text To Speech
+
+### 27. Which company has developed Whisper ASR model?
+Answer: OpenAI
