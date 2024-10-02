@@ -17,18 +17,24 @@ Answer: Reinforcement Learning
 ### 5. What is a full form of Gen-AI?
 Answer: Generative Artificial Intelligence
 
-### 6. Which company has developed Gemini AI?
+### 6. Which company has developed Gemini 1.0?
 Answer: Google
 
-### 7. Which company has developed Gemma?
+### 7. Which company has developed Gemini 1.5?
+Answer: Google
+
+### 8. Which company has developed Gemma?
 Answer: Google DeepMind
 
-### 8. What is a full form of ML?
-Answer: Machine Learning
+### 9. Which company has developed Llama 2?
+Answer: Meta
 
-### 9. What is a full form of ML?
-Answer: Machine Learning
+### 10. Which company has developed Llama 3?
+Answer: Meta
 
-### 10. What is a full form of ML?
-Answer: Machine Learning
+### 11. Which company has developed Llama 3.1?
+Answer: Meta
+
+### 12. Which company has developed Llama 3.2?
+Answer: Meta
 
