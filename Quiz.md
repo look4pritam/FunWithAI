@@ -101,3 +101,29 @@ Answer: Llama 3.2
 ### 33. What is the name of latest large language model from OpenAI?
 Answer: ChatGPT o1
 
+### 34. AI can be used to produce music. True or False
+Answer: True
+
+### 35. AI can be used to write poem. True or False
+Answer: True
+
+### 36. AI can be used to answer simple questions. True or False
+Answer: True
+
+### 37. AI can be used to create beautiful images. True or False
+Answer: True
+
+### 38. AI can be used to create beautiful images in Picasso style. True or False
+Answer: True
+
+### 39. AI can translate English sentences into corresponding Hindi sentences. True or False
+Answer: True
+
+### 40. AI can generate summary for given sentences.  True or False
+Answer: True
+
+### 41. AI can write simple code. True or False
+Answer: True
+
+### 42. AI can correct simple code.  True or False
+Answer: True
