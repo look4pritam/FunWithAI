@@ -47,3 +47,17 @@ Answer: Meta
 ### 15. Which company has developed Mistral large language model?
 Answer: Mistral AI
 
+### 16. Which company has developed Phi 1 small language model?
+Answer: Microsoft
+
+### 17. Which company has developed Phi 1.5 small language model?
+Answer: Microsoft
+
+### 18. Which company has developed Phi 2 small language model?
+Answer: Microsoft
+
+### 19. Which company has developed Phi 3 small language model?
+Answer: Microsoft
+
+### 20. Which company has developed Phi 3.5 small language model?
+Answer: Microsoft
