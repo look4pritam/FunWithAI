@@ -33,3 +33,5 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n-1)
+- Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.
+- Write python code to find factorial of a number.
