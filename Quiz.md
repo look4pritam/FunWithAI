@@ -38,10 +38,10 @@ Answer: True
 ### AI can correct simple code.  True or False
 Answer: True
 
-### Medium
-
 ### What is a full form of Gen-AI?
 Answer: Generative Artificial Intelligence
+
+### Medium
 
 ### Gen-AI can be used for designing virtual assistant. True or False
 Answer: True
@@ -79,14 +79,13 @@ Answer: OpenAI
 ### Which company has developed ChatGPT o1 large language model?
 Answer: OpenAI
 
+### What is a full form of LLM?
+Answer: Large Language Model
 
 ## Hard
 
 ### What is a full form of RL?
 Answer: Reinforcement Learning
-
-### What is a full form of LLM?
-Answer: Large Language Model
 
 ### Which company has developed Llama 2?
 Answer: Meta
@@ -118,10 +117,10 @@ Answer: Microsoft
 ### Which company has developed Phi 3.5 small language model?
 Answer: Microsoft
 
-## Hardest
-
 ### What is a full form of ASR?
 Answer: Automatic Speech Recognition
+
+## Hardest
 
 ### What is a full form of TTS?
 Answer: Text To Speech
